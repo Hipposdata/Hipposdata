@@ -25,5 +25,5 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 ### 📫 연락처
 - **이메일**: [이메일 주소](mailto:이메일 주소)
 - **GitHub**: [@GitHubID](GitHub 프로필 링크)
-- **블로그**: [블로그 주소](블로그 링크)
+- **블로그**: [[블로그 주소](블로그 링크)](https://hipposdata.tistory.com/)
 - **LinkedIn**: [LinkedIn 프로필](LinkedIn 링크)
