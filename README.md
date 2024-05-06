@@ -17,9 +17,12 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 <!-- 여러분의 기술 스택에 맞게 추가하세요 -->
 
 ### 🚀 최근 프로젝트
-- **프로젝트 이름**: 프로젝트에 대한 간단한 설명. ([GitHub 링크](프로젝트 링크))
+- **프로젝트 이름**: 프로젝트에 대한 간단한 설명. ([[GitHub 링크](https://github.com/Hipposdata/Korean-National-Park-AI-project)](프로젝트 링크))
 - **프로젝트 이름**: 프로젝트에 대한 간단한 설명. ([데모 보기](데모 링크))
+- **프로젝트 이름**: 프로젝트에 대한 간단한 설명. ([데모 보기](데모 링크))
+- **국립공원 안전사고 데이터 분석 및 AI 서비스 개발**: 프로젝트에 대한 간단한 설명. ([데모 보기](데모 링크))
 
+- 
 ### 📫 연락처
 - **이메일**: [이메일 주소](mailto:이메일 주소)
 - **GitHub**: [@GitHubID](GitHub 프로필 링크)
