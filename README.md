@@ -24,6 +24,4 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 
 ### 📫 연락처
 - **이메일**: enm0312@naver.com / enm0312@uos.ac.kr
-- **GitHub**: [@GitHubID](GitHub 프로필 링크)
-- **블로그**: [블로그 주소](https://hipposdata.tistory.com/)
-- **LinkedIn**: [LinkedIn 프로필](LinkedIn 링크)
+- **블로그**: [Hippo's data](https://hipposdata.tistory.com/)
