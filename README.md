@@ -13,8 +13,7 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 
 ### 🔧 기술 스택
 <!-- 기술 배지 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
 <!-- 여러분의 기술 스택에 맞게 추가하세요 -->
 
