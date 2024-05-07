@@ -23,7 +23,7 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 - **애니메이션 캐릭터 분야 LoRA 모델 개발 및 분석**: KBS 기술연구소 / 2024.04.03. ~
 
 ### 📫 연락처
-- **이메일**: [이메일 주소](mailto:이메일 주소)
+- **이메일**: enm0312@naver.com / enm0312@uos.ac.kr
 - **GitHub**: [@GitHubID](GitHub 프로필 링크)
 - **블로그**: [블로그 주소](https://hipposdata.tistory.com/)
 - **LinkedIn**: [LinkedIn 프로필](LinkedIn 링크)
