@@ -15,6 +15,10 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 <!-- 기술 배지 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
+### blog
+<p align="left"><a href="https://hipposdata.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://hipposdata.tistory.com/"/></a>
+
+  
 <!-- 여러분의 기술 스택에 맞게 추가하세요 -->
 
 ### 🚀 Activity
@@ -25,7 +29,6 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 - **2024 춘천 AWS DeepRacer 챔피언십 본선** / 2024.08 ([후기 링크](https://hipposdata.tistory.com/99))
 
 
-<p align="center"><a href="https://hipposdata.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://hipposdata.tistory.com/"/></a>
 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enm0312)](https://solved.ac/enm0312)
