@@ -11,8 +11,11 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 저는 [이름]이며, [직업/전공/관심사]에 종사하고 있습니다. 기술에 대한 열정과 지속적인 학습을 통해 [목표/꿈]을 이루고자 합니다. [취미/관심사]에 관심이 많으며, 이를 통해 새로운 아이디어와 영감을 얻곤 합니다.
 
 
+
 ### 🔧 기술 스택
 <!-- 기술 배지 -->
+
+### 🔧 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
 ### Blog
