@@ -24,6 +24,10 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 - **LoRA 기반의 캐릭터 스타일 유지 기법(A Method of Character Style Maintenance Based on LoRA)**: KBS 기술연구소 / 2024.04.03. ~ 2024.05.10.  (([논문 링크](https://www.dbpia.co.kr/journal/publicationDetail?publicationId=PLCT00000992))(([한국방송미디어공학회2024년 하계학술대회](https://www.dbpia.co.kr/journal/publicationDetail?publicationId=PLCT00000992))
 - **2024 춘천 AWS DeepRacer 챔피언십 본선** / 2024.08 ([후기 링크](https://hipposdata.tistory.com/99))
 
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={enm0312})](https://solved.ac/{enm0312})
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hipposdata)](https://github.com/Hipposdata/github-readme-stats)
 
 
