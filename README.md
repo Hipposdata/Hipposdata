@@ -16,8 +16,11 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
 ### blog
-<p align="left"><a href="https://hipposdata.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://hipposdata.tistory.com/"/></a>
-
+<p align="left">
+  <a href="https://hipposdata.tistory.com/">
+    <img src="https://img.shields.io/badge/tech%20blog-FFA500?style=flat-square&logoColor=white&link=https://hipposdata.tistory.com/"/>
+  </a>
+</p>
   
 <!-- 여러분의 기술 스택에 맞게 추가하세요 -->
 
