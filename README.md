@@ -27,7 +27,7 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={enm0312})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={enm0312})](https://solved.ac/{enm0312})
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hipposdata)](https://github.com/Hipposdata/github-readme-stats)
 
