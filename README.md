@@ -31,7 +31,7 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 ### 🚀 Activity
 - **산업재해보험 신속 처리를 위한 산재패스 서비스 개발**: 근로복지공단 / 2023.9.01. ~ 2023.10.13.
 - **위성 데이터를 활용한 국립공원 관리 종합 서비스 개발**: 국립공원공단 / 2023.10.20. ~ 2023.12.01.([[GitHub 링크](https://github.com/Hipposdata/Korean-National-Park-AI-project)]([프로젝트 링크](https://eye-of-bandal.streamlit.app/)))
-- **국립공원 안전사고 데이터 분석 및 AI 서비스 개발**: 국립공원공단 수의계약 / 2024.02.19. ~  2024.04.26. ([데모 보기]([프로젝트 링크](https://nationalparkbigleader.streamlit.app/))
+- **국립공원 안전사고 데이터 분석 및 AI 서비스 개발**: 국립공원공단 수의계약 / 2024.02.19. ~  2024.04.26. ([데모 보기]([프로젝트 링크](https://nationalparkbigleader.streamlit.app/))(([보도기]([https://hipposdata.tistory.com/85](https://zdnet.co.kr/view/?no=20240806174604)))
 - **LoRA 기반의 캐릭터 스타일 유지 기법(A Method of Character Style Maintenance Based on LoRA)**: KBS 기술연구소 / 2024.04.03. ~ 2024.05.10.  (([논문 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11849090))(([한국방송미디어공학회2024년 하계학술대회](https://www.dbpia.co.kr/journal/voisDetail?voisId=VOIS00753701#a)) (([후기](https://hipposdata.tistory.com/85))
 - **2024 춘천 AWS DeepRacer 챔피언십 본선** / 2024.08 ([후기 링크](https://hipposdata.tistory.com/99))
 - **2024 신한금융그룹 빅데이터 해커톤 대회 결선(신빅해) -신한은행 계열사, 팀 신받드**
