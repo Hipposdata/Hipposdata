@@ -35,6 +35,8 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 - **LoRA 기반의 캐릭터 스타일 유지 기법(A Method of Character Style Maintenance Based on LoRA)**: KBS 기술연구소 / 2024.04.03. ~ 2024.05.10.  (([논문 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11849090))(([한국방송미디어공학회2024년 하계학술대회](https://www.dbpia.co.kr/journal/voisDetail?voisId=VOIS00753701#a)) (([후기](https://hipposdata.tistory.com/85))
 - **2024 춘천 AWS DeepRacer 챔피언십 본선** / 2024.08 ([후기 링크](https://hipposdata.tistory.com/99))
 - **2024 신한금융그룹 빅데이터 해커톤 대회 결선(신빅해) -신한은행 계열사, 팀 신받드**
+- **2025 2025 MixUP AI Datathon (Track 2: 위즈코어 국내 철강 제품 품질 예측 및 공정 최적화) -대상, 팀 철강왕**
+
 
 
 
