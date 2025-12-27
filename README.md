@@ -37,6 +37,8 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 - **2024 춘천 AWS DeepRacer 챔피언십 본선** / 2024.08 ([후기 링크](https://hipposdata.tistory.com/99))
 - **2024 신한금융그룹 빅데이터 해커톤 대회 결선(신빅해) - 신한은행 계열사, 팀 신받드**
 - **2025 MixUP AI Datathon 대상 (Track 2: 위즈코어 국내 철강 제품 품질 예측 및 공정 최적화) - 팀 철강왕** ([후기 링크](https://github.com/Hipposdata/MIXUP_Datathon))
+- **제4회 유통데이터 활용 경진대회 대상 (산업통상자원부 장관상)**: 산업통상자원부, 대한상공회의소 / 2024.07. ~ 2024.11. (유통 빅데이터 기반 수요예측 AI 모델 개발)(([보도기사](https://byline.network/2025/11/13-547/))
+- **알티엠(RTM) Data Scientist Intern**: TS(Time-Series)I Unit - AI팀 / 2025.09. ~ 2025.12.
 
 
 
