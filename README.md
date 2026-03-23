@@ -40,8 +40,8 @@ target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat
 - **제4회 유통데이터 활용 경진대회 대상 (산업통상자원부 장관상)**: 산업통상자원부, 대한상공회의소 / 2025.11. (유통 빅데이터 기반 수요예측 AI 모델 개발)([보도기사](https://byline.network/2025/11/13-547/))
 - **알티엠(RTM) Data Scientist Intern**: TS(Time-Series)I Unit - AI팀 / 2025.09. ~ 2025.12./ AI 기반 공정 시계열 데이터 모델링 및 고객사 품목 수요예측 PoC수행
 - **투빅스(ToBigs) AI&빅데이터 연합 동아리 교육부장** / 23기, 2025.01. ~  2026.01.([링크](http://www.datamarket.kr/xe/page_QEhq64))
-- **투빗(ToBit): 인공지능 기반 비트코인 시계열 예측 및 투자 의사결정 지원 플랫폼** / 2026.01. ([깃허브 링크](https://github.com/Hipposdata/BTC_FCST))
-- **Research Intern [KAIST SAIL Lab]**(https://sail.kaist.ac.kr)/ 2025.12 ~ Present
+- **투빗(ToBit): 인공지능 기반 비트코인 시계열 예측 및 투자 의사결정 지원 플랫폼** / 2026.01. ([GitHub 링크](https://github.com/Hipposdata/BTC_FCST))
+- **Research Intern [KAIST SAIL Lab]** (https://sail.kaist.ac.kr) / 2025.12 ~ Present
 
 
 
